@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-_Last updated: [Insert Date]_  
+_Last updated: 27/01/2025_  
 
 Welcome to BlueByke! These Terms and Conditions ("Terms") govern your access to and use of our services, including our mobile application, website, and associated services (collectively, the "Services"). By accessing or using our Services, you agree to comply with these Terms.
 
@@ -113,8 +113,8 @@ Any disputes arising from these Terms will be resolved through binding arbitrati
 
 If you have any questions about these Terms, please contact us at:
 
-**Email**: [Insert Email Address]  
-**Address**: [Insert Address]  
+**Email**: punitkumar8728@gmail.com  
+**Address**: 139/1, Modern Valley, Mohali, Punjab  
 
 Thank you for choosing BlueByke. Enjoy the ride!
 
