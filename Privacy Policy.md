@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: [Insert Date]_  
+_Last updated: 27/01/2025_  
 
 BlueByke ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services, including our mobile application, website, and associated services (collectively, the "Services").
 
@@ -98,8 +98,8 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
 
-**Email**: [Insert Email Address]  
-**Address**: [Insert Address]  
+**Email**: bluebyke2327@gmail.com 
+**Address**: 139/1, Modern Valley, Mohali, Punjab  
 
 Thank you for trusting BlueByke. Your privacy is important to us.
 
